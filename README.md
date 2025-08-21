@@ -1,6 +1,6 @@
 # A Simple BMI Calculator
 
-🧮 Image 1: BMI Calculator Interface
+🧮 1st Page: BMI Calculator Interface
 This screen shows a mobile app designed to calculate Body Mass Index (BMI). The interface includes:
 
 • 	Gender Selection: Two options — one is currently selected.
@@ -13,7 +13,7 @@ This screen shows a mobile app designed to calculate Body Mass Index (BMI). The 
 
 The layout is sleek and intuitive, using a dark background with vibrant accent colors to highlight interactive elements.
 
-📉 Image 2: BMI Result Screen
+📉 2nd Page: BMI Result Screen
 This screen displays the outcome of the BMI calculation:
 
 • 	Health Category: The result indicates the user is below the normal weight range.
