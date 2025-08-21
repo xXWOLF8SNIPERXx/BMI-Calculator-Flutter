@@ -1,4 +1,4 @@
-#A Simple BMI Calculator
+# A Simple BMI Calculator
 
 🧮 Image 1: BMI Calculator Interface
 This screen shows a mobile app designed to calculate Body Mass Index (BMI). The interface includes:
